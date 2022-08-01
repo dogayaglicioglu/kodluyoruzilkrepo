@@ -1,4 +1,5 @@
 # Kodluyoruz Ilk Repo
+www.patika.dev 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir ader README dosyası, bir adet de index.html barındırıyor.
 ![Gorsel](ss1.png)
 
